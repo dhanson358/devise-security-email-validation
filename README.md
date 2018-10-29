@@ -1,25 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This repo is meant to demonstrate a bug somewhere in devise-security and valid_email2 (or their interactions).
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# devise-security-email-validation
+# Download this repo
+# `bundle`
+# `bin/rails db:migrate RAILS_ENV=test`
+# `rspec`
